@@ -1,0 +1,14 @@
+{
+	"image": "dotnet-ubuntu:22.04",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-dotnettools.csharp"
+			]
+		}
+	},
+	"mounts": [
+		"source=/mnt/data/binaries/dotnet/sdk,target=/home/vscode/.dotnet,type=bind",
+		"source=/mnt/data/binaries/dotnet/nuget,target=/home/vscode/.nuget,type=bind"
+	]
+}

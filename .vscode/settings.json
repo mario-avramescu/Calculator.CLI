@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.cwd": "${fileDirname}",
+    "editor.codeLens": false,
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true
+    }
+}

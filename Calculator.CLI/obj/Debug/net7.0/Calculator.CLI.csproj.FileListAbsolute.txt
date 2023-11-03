@@ -1,0 +1,14 @@
+/workspaces/training-csharp/Calculator.CLI/bin/Debug/net7.0/Calculator.CLI
+/workspaces/training-csharp/Calculator.CLI/bin/Debug/net7.0/Calculator.CLI.deps.json
+/workspaces/training-csharp/Calculator.CLI/bin/Debug/net7.0/Calculator.CLI.runtimeconfig.json
+/workspaces/training-csharp/Calculator.CLI/bin/Debug/net7.0/Calculator.CLI.dll
+/workspaces/training-csharp/Calculator.CLI/bin/Debug/net7.0/Calculator.CLI.pdb
+/workspaces/training-csharp/Calculator.CLI/obj/Debug/net7.0/Calculator.CLI.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/training-csharp/Calculator.CLI/obj/Debug/net7.0/Calculator.CLI.AssemblyInfoInputs.cache
+/workspaces/training-csharp/Calculator.CLI/obj/Debug/net7.0/Calculator.CLI.AssemblyInfo.cs
+/workspaces/training-csharp/Calculator.CLI/obj/Debug/net7.0/Calculator.CLI.csproj.CoreCompileInputs.cache
+/workspaces/training-csharp/Calculator.CLI/obj/Debug/net7.0/Calculator.CLI.dll
+/workspaces/training-csharp/Calculator.CLI/obj/Debug/net7.0/refint/Calculator.CLI.dll
+/workspaces/training-csharp/Calculator.CLI/obj/Debug/net7.0/Calculator.CLI.pdb
+/workspaces/training-csharp/Calculator.CLI/obj/Debug/net7.0/Calculator.CLI.genruntimeconfig.cache
+/workspaces/training-csharp/Calculator.CLI/obj/Debug/net7.0/ref/Calculator.CLI.dll
